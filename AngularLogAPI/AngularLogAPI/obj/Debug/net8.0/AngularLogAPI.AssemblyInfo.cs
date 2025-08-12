@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AngularLogAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d70127d876138423f7224ff1cbe1b213ae43ed69")]
 [assembly: System.Reflection.AssemblyProductAttribute("AngularLogAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AngularLogAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

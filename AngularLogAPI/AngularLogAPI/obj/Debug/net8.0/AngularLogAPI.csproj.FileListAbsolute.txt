@@ -215,3 +215,6 @@ C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\refi
 C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.pdb
 C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.genruntimeconfig.cache
 C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\ref\AngularLogAPI.dll
+C:\Users\Latitude 7400\Desktop\DockerNuevo\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.dll
+C:\Users\Latitude 7400\Desktop\DockerNuevo\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\refint\AngularLogAPI.dll
+C:\Users\Latitude 7400\Desktop\DockerNuevo\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.pdb
