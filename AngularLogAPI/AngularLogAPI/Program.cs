@@ -50,16 +50,16 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 builder.WebHost.UseUrls("http://*:80");
 
+
+// 🏗️ Construcción de la app
+var app = builder.Build();
+
+// 🗄️ Inicialización de la base de datos
 using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
     dbContext.Database.EnsureCreated();
 }
-
-
-
-// 🏗️ Construcción de la app
-var app = builder.Build();
 
 // 🚀 Middleware
 if (app.Environment.IsDevelopment())
@@ -70,7 +70,6 @@ if (app.Environment.IsDevelopment())
 
 app.UseSwagger();
 app.UseSwaggerUI();
-
 
 app.UseCors(corsPolicyName);
 //app.UseHttpsRedirection();
