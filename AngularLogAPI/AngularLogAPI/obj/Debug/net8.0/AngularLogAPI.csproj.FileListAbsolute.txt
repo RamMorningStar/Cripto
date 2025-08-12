@@ -1,0 +1,217 @@
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.csproj.AssemblyReference.cache
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.AssemblyInfoInputs.cache
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.AssemblyInfo.cs
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.csproj.CoreCompileInputs.cache
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.exe
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.deps.json
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.runtimeconfig.json
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.pdb
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets\msbuild.AngularLogAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.AngularLogAPI.props
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AngularLogAPI.props
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AngularLogAPI.props
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\scopedcss\bundle\AngularLogAPI.styles.css
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularL.D195E651.Up2Date
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\refint\AngularLogAPI.dll
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.pdb
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.genruntimeconfig.cache
+C:\Users\Latitude 5500\Desktop\Log\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\ref\AngularLogAPI.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.exe
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.deps.json
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.runtimeconfig.json
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.pdb
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.csproj.AssemblyReference.cache
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.AssemblyInfoInputs.cache
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.AssemblyInfo.cs
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.csproj.CoreCompileInputs.cache
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets\msbuild.AngularLogAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.AngularLogAPI.props
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AngularLogAPI.props
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AngularLogAPI.props
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\scopedcss\bundle\AngularLogAPI.styles.css
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularL.D195E651.Up2Date
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\refint\AngularLogAPI.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.pdb
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.genruntimeconfig.cache
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\ref\AngularLogAPI.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Latitude 5500\Desktop\Log Actual\AngularLoginUI\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.staticwebassets.endpoints.json
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.exe
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.deps.json
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.runtimeconfig.json
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\AngularLogAPI.pdb
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.csproj.AssemblyReference.cache
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.AssemblyInfoInputs.cache
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.AssemblyInfo.cs
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.csproj.CoreCompileInputs.cache
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\scopedcss\bundle\AngularLogAPI.styles.css
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularL.D195E651.Up2Date
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\refint\AngularLogAPI.dll
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.pdb
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\AngularLogAPI.genruntimeconfig.cache
+C:\Users\Latitude 7400\Desktop\AngularLogAPI\AngularLogAPI\obj\Debug\net8.0\ref\AngularLogAPI.dll
