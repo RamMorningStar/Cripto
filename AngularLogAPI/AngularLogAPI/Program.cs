@@ -11,6 +11,8 @@ builder.Configuration.AddJsonFile("appsettings.json");
 var secretkey = builder.Configuration.GetValue<string>("settings:secretkey");
 var keyBytes = Encoding.UTF8.GetBytes(secretkey);
 
+app.MapGet("/", () => "API Cripto está corriendo 🚀");
+
 builder.Services.AddAuthentication(config =>
 {
     config.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -61,6 +63,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+ app.UseSwagger();
+    app.UseSwaggerUI();
 
 app.UseCors(corsPolicyName);
 //app.UseHttpsRedirection();
