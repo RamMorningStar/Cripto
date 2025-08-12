@@ -1,0 +1,8 @@
+services:
+  - type: static
+    name: aplicacionCriptoMonedas
+    env: static
+    buildCommand: cd aplicacionCriptoMonedas && npm install && npm run build --prod
+    staticPublishPath: aplicacionCriptoMonedas/dist/aplicacionCriptoMonedas
+    repo: https://github.com/RamMorningStar/Cripto
+    branch: master
