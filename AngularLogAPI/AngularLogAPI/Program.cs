@@ -11,8 +11,6 @@ builder.Configuration.AddJsonFile("appsettings.json");
 var secretkey = builder.Configuration.GetValue<string>("settings:secretkey");
 var keyBytes = Encoding.UTF8.GetBytes(secretkey);
 
-app.MapGet("/", () => "API Cripto está corriendo 🚀");
-
 builder.Services.AddAuthentication(config =>
 {
     config.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -50,12 +48,11 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("PostgresConnStr")));
 
+// 🌐 Puerto para Render
 builder.WebHost.UseUrls("http://*:80");
-
 
 // 🏗️ Construcción de la app
 var app = builder.Build();
-
 
 // 🚀 Middleware
 if (app.Environment.IsDevelopment())
@@ -64,7 +61,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
- app.UseSwagger();
+  app.UseSwagger();
     app.UseSwaggerUI();
 
 app.UseCors(corsPolicyName);
@@ -72,5 +69,8 @@ app.UseCors(corsPolicyName);
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
+
+// ✅ Ruta de prueba para Render
+app.MapGet("/", () => "API Cripto está corriendo 🚀");
 
 app.Run();
