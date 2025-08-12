@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Migrations\\20250812202436_InitialPostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AngularLogAPI\\Migrations\\20250812202436_InitialPostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E745584A-3F3A-4190-9BB2-B787AE24AC15}|AngularLogAPI\\AngularLogAPI.csproj|c:\\users\\latitude 7400\\desktop\\dockernuevo\\angularlogapi\\angularlogapi\\angularlogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E745584A-3F3A-4190-9BB2-B787AE24AC15}|AngularLogAPI\\AngularLogAPI.csproj|solutionrelative:angularlogapi\\angularlogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E745584A-3F3A-4190-9BB2-B787AE24AC15}|AngularLogAPI\\AngularLogAPI.csproj|c:\\users\\latitude 7400\\desktop\\dockernuevo\\angularlogapi\\angularlogapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E745584A-3F3A-4190-9BB2-B787AE24AC15}|AngularLogAPI\\AngularLogAPI.csproj|solutionrelative:angularlogapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E745584A-3F3A-4190-9BB2-B787AE24AC15}|AngularLogAPI\\AngularLogAPI.csproj|c:\\users\\latitude 7400\\desktop\\dockernuevo\\angularlogapi\\angularlogapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E745584A-3F3A-4190-9BB2-B787AE24AC15}|AngularLogAPI\\AngularLogAPI.csproj|solutionrelative:angularlogapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E745584A-3F3A-4190-9BB2-B787AE24AC15}|AngularLogAPI\\AngularLogAPI.csproj|c:\\users\\latitude 7400\\desktop\\dockernuevo\\angularlogapi\\angularlogapi\\migrations\\20250807055225_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E745584A-3F3A-4190-9BB2-B787AE24AC15}|AngularLogAPI\\AngularLogAPI.csproj|solutionrelative:angularlogapi\\migrations\\20250807055225_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E745584A-3F3A-4190-9BB2-B787AE24AC15}|AngularLogAPI\\AngularLogAPI.csproj|c:\\users\\latitude 7400\\desktop\\dockernuevo\\angularlogapi\\angularlogapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,10 +36,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E745584A-3F3A-4190-9BB2-B787AE24AC15}|AngularLogAPI\\AngularLogAPI.csproj|c:\\users\\latitude 7400\\desktop\\dockernuevo\\angularlogapi\\angularlogapi\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E745584A-3F3A-4190-9BB2-B787AE24AC15}|AngularLogAPI\\AngularLogAPI.csproj|solutionrelative:angularlogapi\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E745584A-3F3A-4190-9BB2-B787AE24AC15}|AngularLogAPI\\AngularLogAPI.csproj|c:\\users\\latitude 7400\\desktop\\dockernuevo\\angularlogapi\\angularlogapi\\angularlogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E745584A-3F3A-4190-9BB2-B787AE24AC15}|AngularLogAPI\\AngularLogAPI.csproj|solutionrelative:angularlogapi\\angularlogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,74 +45,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250807055225_v1.cs",
-              "DocumentMoniker": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Migrations\\20250807055225_v1.cs",
-              "RelativeDocumentMoniker": "AngularLogAPI\\Migrations\\20250807055225_v1.cs",
-              "ToolTip": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Migrations\\20250807055225_v1.cs",
-              "RelativeToolTip": "AngularLogAPI\\Migrations\\20250807055225_v1.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20250812202436_InitialPostgres.cs",
+              "DocumentMoniker": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Migrations\\20250812202436_InitialPostgres.cs",
+              "RelativeDocumentMoniker": "AngularLogAPI\\Migrations\\20250812202436_InitialPostgres.cs",
+              "ToolTip": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Migrations\\20250812202436_InitialPostgres.cs",
+              "RelativeToolTip": "AngularLogAPI\\Migrations\\20250812202436_InitialPostgres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T05:52:26.08Z",
+              "WhenOpened": "2025-08-12T20:24:36.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Program.cs",
-              "RelativeDocumentMoniker": "AngularLogAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Program.cs",
-              "RelativeToolTip": "AngularLogAPI\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T21:02:10.771Z",
+              "Title": "AngularLogAPI",
+              "DocumentMoniker": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\AngularLogAPI.csproj",
+              "RelativeDocumentMoniker": "AngularLogAPI\\AngularLogAPI.csproj",
+              "ToolTip": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\AngularLogAPI.csproj",
+              "RelativeToolTip": "AngularLogAPI\\AngularLogAPI.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T20:21:14.17Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20250807052428_v15.cs",
-              "DocumentMoniker": "C:\\Users\\Latitude 7400\\Desktop\\AngularLogAPI\\AngularLogAPI\\Migrations\\20250807052428_v15.cs",
-              "RelativeDocumentMoniker": "..\\..\\AngularLogAPI\\AngularLogAPI\\Migrations\\20250807052428_v15.cs",
-              "ToolTip": "C:\\Users\\Latitude 7400\\Desktop\\AngularLogAPI\\AngularLogAPI\\Migrations\\20250807052428_v15.cs",
-              "RelativeToolTip": "..\\..\\AngularLogAPI\\AngularLogAPI\\Migrations\\20250807052428_v15.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T05:24:28.351Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Models\\User.cs",
-              "RelativeDocumentMoniker": "AngularLogAPI\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Models\\User.cs",
-              "RelativeToolTip": "AngularLogAPI\\Models\\User.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA0wA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T20:45:01.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "AngularLogAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\appsettings.json",
-              "RelativeToolTip": "AngularLogAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-05T21:05:51.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "AngularLogAPI\\Controllers\\UserController.cs",
@@ -125,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "AngularLogAPI\\Context\\AppDbContext.cs",
@@ -138,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AutenticacionController.cs",
               "DocumentMoniker": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Controllers\\AutenticacionController.cs",
               "RelativeDocumentMoniker": "AngularLogAPI\\Controllers\\AutenticacionController.cs",
@@ -151,15 +114,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AngularLogAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\AngularLogAPI.csproj",
-              "RelativeDocumentMoniker": "AngularLogAPI\\AngularLogAPI.csproj",
-              "ToolTip": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\AngularLogAPI.csproj",
-              "RelativeToolTip": "AngularLogAPI\\AngularLogAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-05T20:41:37.075Z",
+              "DocumentIndex": 6,
+              "Title": "20250807052428_v15.cs",
+              "DocumentMoniker": "C:\\Users\\Latitude 7400\\Desktop\\AngularLogAPI\\AngularLogAPI\\Migrations\\20250807052428_v15.cs",
+              "RelativeDocumentMoniker": "..\\..\\AngularLogAPI\\AngularLogAPI\\Migrations\\20250807052428_v15.cs",
+              "ToolTip": "C:\\Users\\Latitude 7400\\Desktop\\AngularLogAPI\\AngularLogAPI\\Migrations\\20250807052428_v15.cs",
+              "RelativeToolTip": "..\\..\\AngularLogAPI\\AngularLogAPI\\Migrations\\20250807052428_v15.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T05:24:28.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AngularLogAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\appsettings.json",
+              "RelativeToolTip": "AngularLogAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T21:05:51.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AngularLogAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Models\\User.cs",
+              "RelativeToolTip": "AngularLogAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:45:01.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AngularLogAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Latitude 7400\\Desktop\\DockerNuevo\\AngularLogAPI\\AngularLogAPI\\Program.cs",
+              "RelativeToolTip": "AngularLogAPI\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAIBJwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:02:10.771Z",
               "EditorCaption": ""
             }
           ]
