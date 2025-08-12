@@ -46,7 +46,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("SqlServerConnStr")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("PostgresConnStr")));
 
 builder.WebHost.UseUrls("http://*:80");
 
@@ -54,12 +54,6 @@ builder.WebHost.UseUrls("http://*:80");
 // 🏗️ Construcción de la app
 var app = builder.Build();
 
-// 🗄️ Inicialización de la base de datos
-using (var scope = app.Services.CreateScope())
-{
-    var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-    dbContext.Database.EnsureCreated();
-}
 
 // 🚀 Middleware
 if (app.Environment.IsDevelopment())
@@ -67,9 +61,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
-app.UseSwagger();
-app.UseSwaggerUI();
 
 app.UseCors(corsPolicyName);
 //app.UseHttpsRedirection();
