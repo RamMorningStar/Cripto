@@ -34,9 +34,12 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy(name: corsPolicyName, policy =>
     {
-        policy.WithOrigins("http://localhost:8080") // Cambia esto si tu frontend está en otro host
-              .AllowAnyHeader()
-              .AllowAnyMethod();
+        policy.WithOrigins(
+                "http://localhost:8080", 
+                "https://frontend-179567002647.us-central1.run.app"
+            )
+            .AllowAnyHeader()
+            .AllowAnyMethod();
     });
 });
 
@@ -55,14 +58,8 @@ builder.WebHost.UseUrls("http://*:80");
 var app = builder.Build();
 
 // 🚀 Middleware
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
-
-  app.UseSwagger();
-    app.UseSwaggerUI();
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseCors(corsPolicyName);
 //app.UseHttpsRedirection();
